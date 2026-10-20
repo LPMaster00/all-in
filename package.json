@@ -1,0 +1,12 @@
+{
+  "name": "all-in-a-gamblers-experience",
+  "version": "1.0.0",
+  "description": "Empathy-building interactive story about gambling addiction (Twine/SugarCube), with Playwright end-to-end tests",
+  "private": true,
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.47.2"
+  }
+}
